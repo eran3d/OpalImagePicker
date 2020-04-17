@@ -12,7 +12,7 @@ let package = Package(
         .target(
             name: "OpalImagePicker",
             dependencies: [],
-            path: "OpalImagePicker"
+            path: "OpalImagePicker/Source"
             ),
         .testTarget(
             name: "OpalImagePickerTests",
