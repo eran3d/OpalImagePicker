@@ -14,8 +14,5 @@ let package = Package(
             dependencies: [],
             path: "OpalImagePicker/Source"
             ),
-        .testTarget(
-            name: "OpalImagePickerTests",
-            dependencies: ["OpalImagePicker"]),
     ]
 )
